@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a844f4b3-a0fa-490a-8eef-f98b724939f2)
+<img src="https://github.com/user-attachments/assets/a844f4b3-a0fa-490a-8eef-f98b724939f2" alt="Black Duck Logo" width="200" height="auto">
 
 
 Black Duck is an advanced USB Rubber Ducky-based payload designed to simulate undetected threat scenarios on Windows systems, enabling the assessment of endpoint security defenses. 
